@@ -1,0 +1,11 @@
+CustomerID,CustomerName,ContactName,Address,City,PostalCode,Country
+1,Empresa1,Cliente10,Dirección1,Ciudad1,1234,País1
+2,Empresa2,Cliente9,Dirección2,Ciudad2,1235,País2
+3,Empresa3,Cliente8,Dirección3,Ciudad3,1236,País3
+4,Empresa4,Cliente7,Dirección4,Ciudad4,1237,País1
+5,Empresa5,Cliente6,Dirección5,Ciudad5,1238,País2
+6,Empresa6,Cliente5,Dirección6,Ciudad1,1239,País3
+7,Empresa7,Cliente4,Dirección7,Ciudad2,1240,País1
+8,Empresa8,Cliente3,Dirección8,Ciudad3,1241,País2
+9,Empresa9,Cliente2,Dirección9,Ciudad4,1242,País3
+10,Empresa10,Cliente1,Dirección10,Ciudad5,1243,País1
